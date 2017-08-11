@@ -24,5 +24,6 @@ The key is your command and the output is what the bot will change it to. A good
 
 Contact
 -------
+Feel free to contact me at anytime regarding feedback or issues you encounter.
 - [Twitter](https://twitter.com/TheSheerCold)
 - [Issues](https://github.com/thesheercold/ubiquitous-enigma/issues)
