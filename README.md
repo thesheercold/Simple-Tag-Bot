@@ -15,9 +15,14 @@ The `tagfile.json` is editable and the main thing you change as that stores the 
   "key2": "output 2"
 }
 ```
-The key is your command and the output is what the bot will change it to. A good example for the memers is like bellow
+The key is your command and the output is what the bot will change it to. A good example for the memers is below:
 ```json
 {
   "lenny": "( ͡° ͜ʖ ͡°)"
 }
 ```
+
+Contact
+-------
+- [Twitter](https://twitter.com/TheSheerCold)
+- [Issues](https://github.com/thesheercold/ubiquitous-enigma/issues)
