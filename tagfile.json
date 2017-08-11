@@ -1,3 +1,5 @@
 {
-  "tag": "output text"
+  "tag": "output text",
+  "unicode-emoji": "You can use unicode emoji's like 😀",
+  "custom-emoji": "You can use custom emoji's like <:emoji:123456789012345678>"
 }
