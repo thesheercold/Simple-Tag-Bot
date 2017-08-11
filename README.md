@@ -1,5 +1,6 @@
 Simple Tag Bot
 ==============
+![Required Node Version](https://img.shields.io/badge/node-v4.0.0-green.svg)
 A simple tag storage and usage selfbot for Discord.
 
 Setup
