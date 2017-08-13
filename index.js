@@ -15,10 +15,12 @@ _bot.on('messageCreate', (message) => {
     //Must be a simpler way to do this...
     var _command = message.content.replace(_prefix, '').trim();
     var _argument = _command.split(' ');
-    if(_tags[_argument[0]]) {
-      var _tag = _tags[_argument[0]];
-      message.delete();
-      _bot.createMessage(message.channel.id, _tag);
+    if(message.author.id === _bot.user.id) {
+      if(_tags[_argument[0]]) {
+        var _tag = _tags[_argument[0]];
+        message.delete();
+        _bot.createMessage(message.channel.id, _tag);
+      }
     }
   }
 });
